@@ -153,3 +153,4 @@ SELECT
     dbo.ConvertUSDToEUR(PriceUSD) AS PriceEUR
 FROM 
     OrderDetail;
+
